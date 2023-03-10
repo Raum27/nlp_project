@@ -9,3 +9,5 @@ nltk
 pythainlp
 gensim
 notebook
+beautifulsoup4
+lxml
