@@ -1,1 +1,3 @@
+py -3.9 -m venv nlp_project
 nlp_tf\scripts\activate.bat
+pip istall -r nlp.txt
